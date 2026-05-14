@@ -1,0 +1,14 @@
+C:\Users\Gabrielly\OneDrive\Desktop\poo-jogo-sergipe\bin\Debug\net10.0\poo-jogo-sergipe.exe
+C:\Users\Gabrielly\OneDrive\Desktop\poo-jogo-sergipe\bin\Debug\net10.0\poo-jogo-sergipe.deps.json
+C:\Users\Gabrielly\OneDrive\Desktop\poo-jogo-sergipe\bin\Debug\net10.0\poo-jogo-sergipe.runtimeconfig.json
+C:\Users\Gabrielly\OneDrive\Desktop\poo-jogo-sergipe\bin\Debug\net10.0\poo-jogo-sergipe.dll
+C:\Users\Gabrielly\OneDrive\Desktop\poo-jogo-sergipe\bin\Debug\net10.0\poo-jogo-sergipe.pdb
+C:\Users\Gabrielly\OneDrive\Desktop\poo-jogo-sergipe\obj\Debug\net10.0\poo-jogo-sergipe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabrielly\OneDrive\Desktop\poo-jogo-sergipe\obj\Debug\net10.0\poo-jogo-sergipe.AssemblyInfoInputs.cache
+C:\Users\Gabrielly\OneDrive\Desktop\poo-jogo-sergipe\obj\Debug\net10.0\poo-jogo-sergipe.AssemblyInfo.cs
+C:\Users\Gabrielly\OneDrive\Desktop\poo-jogo-sergipe\obj\Debug\net10.0\poo-jogo-sergipe.csproj.CoreCompileInputs.cache
+C:\Users\Gabrielly\OneDrive\Desktop\poo-jogo-sergipe\obj\Debug\net10.0\poo-jogo-sergipe.dll
+C:\Users\Gabrielly\OneDrive\Desktop\poo-jogo-sergipe\obj\Debug\net10.0\refint\poo-jogo-sergipe.dll
+C:\Users\Gabrielly\OneDrive\Desktop\poo-jogo-sergipe\obj\Debug\net10.0\poo-jogo-sergipe.pdb
+C:\Users\Gabrielly\OneDrive\Desktop\poo-jogo-sergipe\obj\Debug\net10.0\poo-jogo-sergipe.genruntimeconfig.cache
+C:\Users\Gabrielly\OneDrive\Desktop\poo-jogo-sergipe\obj\Debug\net10.0\ref\poo-jogo-sergipe.dll
